@@ -1,0 +1,14 @@
+# -*- mode: gitignore -*-
+# Ne pas suivre les fichiers de données volumineux
+data/
+*.zip
+*.csv
+
+# Ne pas suivre les fichiers de configuration Python
+__pycache__/
+*.pyc
+
+# Ne pas suivre les fichiers de configuration des IDE
+.vscode/
+.Rhistory
+.RData
